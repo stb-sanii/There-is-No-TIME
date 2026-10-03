@@ -1,0 +1,70 @@
+Game: There is no TIME
+Scene 1: “The Timeless”
+He is in a room. A voice tells him to jump out the window.
+“No, why?”
+Then something black and fast flashes through his eyes. And he’s dead.
+He wakes up. Dies again. Until he knows how to only comply to the voice and react faster than the shadow trying to catch him.
+He does everything as fast as possible, making the player adbandon any common sense to help him survive.
+(Hidden advancement: “Quick Thinker”, earned by complying to the voice in the first loop instantly, not asking anything.)
+(Scene 2*) Loading screen, after booting the second time or after finishing a part of a scene: “Nowhere to Hide”
+The monster cracks out from the loading screen and chase the cursor. Do a minigame to avoid being caught.
+(Hidden feature: Press esc to pause the game, then press Reload stage. The monster will disappear, you get into the new stage, and get the achievement: “I can use the menu too!”)
+This makes the loading time less tiring, and boosts up dopamine.
+The ‘*’ means that this scene will and can appear anytime. Enabling Speedrun Mode removes this scene from appearing a second time.
+Scene 3: “Judging Identification”
+A meeting. 9 people. 1 imposter. If he can’t catch the imposter in time, the bomb goes off. 5 minutes countdown. The player is forced to remember everything from the loops before. Every failed cycle reduces the time by 15 second for next time. Minimum time is 2 minutes.
+After the player finally catches the imposter, it turns back into the shadow in seconds, requiring the player to run. (Hidden feature: slap the shadow before running to slow it down by 0.75x, getting the achievement “Not today!”)
+Begins a chase. Not in too extreme difficulty.
+Scene 4: “The Faceless”
+He wakes up. Sorting items, selling items in a shop while also managing the 3 camera of the back, the front, the storage room. There’s a gun on the desk. If he sees the shadow catching anyone on the camera, that means the shadow has turned into them, and he has to remember the features of the person who got turned into and shoot them. He cannot shoot the wrong person, or ignore the entity.
+If he shoots the wrong person, another person in the shop runs and call the cops, game over.
+(Hidden achievement: “Silencing Violence”, kills the person trying to call the cops. “The Truth will out.” Kills another person after that, resulting in run reset because someone called the cop. After getting this achievement, completely lock the option to kill the person calling the cop. This doesn’t apply to Speedrun Mode.)
+(In easy mode, the person who got turned into can have a slight abnormal reaction when looked at. This appears less frequently on normal, and doesn’t appear on hard.)
+Scene 5: “Noticing the Rememberable”
+Simple find the difference game on easy mode.
+On normal and hard mode, each round passes, there are another modifier on top. On normal, you can pick 1 in 3 modifiers that are shown in cards. On hard, it randomize from 1 to 3 modifier cards. (You choose 1 to 3.)
+Example modifier:
+“Sleeping yet?”: The shadow occasionally comes and check if the player is sleeping or not.
+“Inverted color”: Invert color.
+“Storage Upgrade”: Adds 2x the item.
+“Blackout”: Light occasionally blacks out.
+“Behind ya!”: (Acquired by getting 2 black out modifier): The shadow has a chance to visit the player in black outs. Do not look at it or use your flashlight.
+“Less battery”: Battery maximum percent is set to 75%
+“Forgot to Charge”: (2 less battery modfiers): Battery maximum is set to 50%
+“No more battery”: There are no longer any battery to charge back up.
+There are a total of 10 rounds, each round getting faster with much more heavy music.
+(HARD achievement: “Outskilled” Win with at least 15 modifier cards.) 
+(Hidden achievement: “What?” Hug the shadows when it appears in the blackout time. As this doesn’t violate any rules, the game rewards the player for trying new things.)
+Scene 6: “Follow your Judgement”
+The map looks the same as scene 1. The voice comes back to help, but now, sometimes it corrupts.
+It can be normally like “Go over there quick!” to impossible to trust like “Jump from this building, now!”
+This teaches the player to not only accept help, but also filter the advices with their own judgement. “Do not trust anyone blindly.”
+Still, the shadow chases you. It is faster. Extra rules for normal and hard mode: If the voice tells you to do something it already asked the same in scene 1, do not do it. The shadow learns. Instead, do the opposite thing.
+(Hidden achevement: “Unpredictable”: after spawning in scene 6, ignore the voice and walks through the door that the shadow in scene 1 used to run in from. Of course, you get rewarded for being unpredictable and tricking it and survive, with a skipped 25% of the running way.)
+The voices get faster, and starts to encode once it realize the shadow can hear it.
+Encoding example:
+“Donut is now strawberry. Shh.”
+Then later, it tells you to: “Go in the donut shop and hide, quick!”
+Pick the strawberry shop. The shadow is inside the donut shop.
+(Hidden achievement: “There truly is no TIME!” Run past the 2 shops.)
+The rules repeat faster until the player wins or the shadow wins.
+When the chase ends, and the player is standing at the gate that ends the stage, the shadow stands from a distance and ask for mercy, it said it only needed a friend.
+Achievement: “Have you EVER learned anything?” Try to come closer, then get killed.
+“Dismissed!” Get through the door before the shadow finishes its sentence.
+“It was worth a chance.” Try to come closer and slaps it first, but you forgot it can learn and it kills you. (This death gives you both “Have you EVER learned anything?” and “It was worth a chance.)
+Scene 7: “Comforting, Entangling Threads” The name doesn’t show when you enter the stage. It only shows when you’ve beated it.
+You’re in a chill coffee shop. It’s… comforting. Food and drinks. Warm color, not too bright, not too extreme. A note is sticked on the wall “Remember to take rest! Playing for too long in flashing lights game isn’t good.”. The coffee shop is beautiful, and it’s raining gray outside. No goals, no quests, no chasing, no voices. The quest menu only says “Act on your own.” You work here, do jobs here, feel happy, as your coworker smiles at you, and give you extra left treats. Life is happy. Why would you even want to leave? Why? As you play, the coffee shop gradually gets better and better, upgrades and vibes, anything.
+The player, given that they don’t watch guides, will be stuck here. In happiness. As the coffee shops grows, the player remembers every spot that they placed a flower poi, built a table. It becomes a home. A place of comfort.
+The true goal: There is no TIME. Working? Throw everything out the window. Now, wreck everything. Ignore your workers that you’ve been attacted with, their sweet words are only hollow and empty. Ignore their actings and cries. Treat this as merely a simulation.
+When you wreck everything. The gate appears. Leading you to stage 8.
+(Hidden achievement: “Eternal Happiness…” Stays in the coffee shop with a playtime of more than 12 hours irl. “Realized the Reality” Breaks through the stage in less than 3 minutes. “Employee of the Month” gets the coffee shop to max tier.)
++ Basically a coffee shop simulator so the player can relax, but they must not forget what they are meant to do.
+Stage 8: “Sacrifice, for a Way forward.”
+You’re in a train station. A strange one, with a lot of rails, but the sides looks like pavements. You’re dressed in the same suit as the passengers walking here. The shadow wanders around, hiding here and here, looking through corners. You must decode their patterns before they decode yours. Sometimes, it breathes down your neck, standing right behind you while you fix an electricity box for the quest. Do not react. No passengers here react. If it detects sudden camera swipe (scared), it will kill you. Do not flinch. Force yourself to be calm. Sprinting is an option, but passengers never sprint. Only do it somewhere you truly think it’s safe. You can notice it, hiding behind a tree, only a little bit sticking out to see. Do not react at all. Despite if it screams at you, or stands right before you, you cannot react.
+(Hidden achievement: “Complete blackout” do not fix any electricity boxes. Nothing at all. “Stalking the Stalker” Stand behind the shadow for 5 second.)
+On normal mode and hard mode, stopping your movement, or doing a sudden turn when the shadow is near means death. You occasionally hear breathing around you. The stage is designed to be silent with only footsteps noises so you can hear your own heart and breath in real life.
+After a certain time threshold, it blinds itself in the passengers too. You now unlock the option to tell passengers what to do. Such as: “Follow me” “Walk there and scream” “Spin around” “Take this path” “Run around this area” “Was there anyone unusual you’ve met? (Provides the location the shadow was at 30 seconds ago, if the passenger saw.)
+If the shadow finds you talking to someone, you’re dead. The more passengers the shadow kills, the more aggressive and faster it becomes, trading invisibility for aggro.
+(Normal achievement: “Sacrifice is the shortest path.” makes a passenger gets killed by the shadow. Hidden achievement: “AAAAAAAAAA” have 5+ passengers screaming at the same time. “Railway Accident” a passenger doing your quest dies to train. “Not playing by the rules.” successfully pass the stage without commanding or killing anyone, or get anyone killed, rewarding the player for not listening to the stage name. “Was it worth it?” kills 90% of the passengers.)
+Note: after 50% of the passengers is dead, the shadow has a chance to kill anyone staying too close to them, regardless of evidence. The shadow constantly hisses and groans in anger.
+Hotfix: to prevent sudden death, there is a warning bar. Easy mode gets 5 warnings before death, each warning disappear within 30 second. Normal mode gets 3, and with 1 minute disappearance. Hard mode gets 2 without disappearing. Added an eye indicator: when it’s closed, it means you aren’t suspicious. When it’s closed, but has noise marks around it, you are making too much noise, and can draw attention. When it’s open, you are doing something suspicious. When it’s open with noise mark around it, you’re being loud while doing something suspicious.
