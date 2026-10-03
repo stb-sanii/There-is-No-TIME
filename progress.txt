@@ -1,0 +1,3 @@
+Currently, only W, A, S, D movements, jump and a copied-from-sample camera movement script is added.
+Planning to use VoxelBridge in Minecraft > export and fix in Blender > export the 3d finished map to Godot.
+Update once in a blue moon.
